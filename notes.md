@@ -16,3 +16,4 @@
 
 ## Spark Architecture
 
+![Spark-Arch](https://user-images.githubusercontent.com/57001761/201304217-1a6899e8-877d-4f98-8a03-17cc5c04f721.jpg)
