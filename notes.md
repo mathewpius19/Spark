@@ -16,4 +16,3 @@
 
 ## Spark Architecture
 
-(./Spark-Arch.jpg)
